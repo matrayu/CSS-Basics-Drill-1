@@ -1,0 +1,15 @@
+.blue-box {
+    height: 60px;
+    width: 60px;
+    background-color: blue;
+    margin-bottom: 100px;
+}
+
+.red-box {
+    height: 200px;
+    width: 250px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    background-color: red;
+}
